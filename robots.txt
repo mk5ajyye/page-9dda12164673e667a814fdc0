@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.rzhth.cn/sitemap.xml
